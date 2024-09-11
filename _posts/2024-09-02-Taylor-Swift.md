@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taylor Swift vs. Beyoncé: A Shift in Pop Culture and Music Trends at the VMA
+title: Taylor Swift vs. Beyonce: A Shift in Pop Culture and Music Trends at the VMA
 subtitle: Welcome to our site!!
 cover-img: https://i1.wp.com/prompts.cfd/image/OvgorkiVTUuSHLRfbmzFNA.jpg
 thumbnail-img: https://i1.wp.com/prompts.cfd/image/OvgorkiVTUuSHLRfbmzFNA.jpg?w=400
