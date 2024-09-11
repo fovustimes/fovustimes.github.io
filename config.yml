@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: tamperetimes.github.io
+title: fovustimes.github.io
 
 # Your name to show in the footer
-author: tamperetimes.github.io
+author: fovustimes.github.io
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://tamperetimes.github.io"
+  Author's home: "https://fovustimes.github.io"
 
 ################
 # --- Logo --- #
@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: tamperetimes
+  github: fovustimes
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
